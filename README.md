@@ -6,3 +6,4 @@ In this tutorial we study:
 - Modules, controllers, services and dependency injection.
 - How controllers work
 - Docker
+- Prisma
